@@ -8,8 +8,10 @@
 - 🤔 I’m currently learning Machine Learning
 - 🏅 In my free time, I play on a recreational women's rugby team
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/nkeiyaroberson/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+### :computer: Connect with me:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nkeiyaroberson/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
