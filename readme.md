@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nkeiyaroberson@gmail.com**
 
-- ⚡ Fun fact **In my free time, I play on recreational women's rugby team**
+- ⚡ Fun fact **In my free time, I play on a recreational women's rugby team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
