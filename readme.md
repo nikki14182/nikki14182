@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Bike Rental Data Project](https://www.kaggle.com/datasets/aguado/bike-rental-data-set-uci)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Time Series Analysis**
 
 - 📫 How to reach me **nkeiyaroberson@gmail.com**
 
-- ⚡ Fun fact **In my free time, I play on a recreational women's rugby team**
+- ⚡ Fun fact **in my free time, I play on a recreational women's rugby team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
