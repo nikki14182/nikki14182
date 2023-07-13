@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm N'Keiya Roberson</h1>
 <h4 align="center">Passionate Data Analyst proficient in working with data to identify and address business needs</h3>
 
-- 🔭 I’m currently working on [AdventureWorks Project](https://github.com/nikki14182/AdventureWorks)
-
-- 🌱 I’m currently learning **Windows Function for SQL**
+- 🔭 I’m currently working on [Sleep Health Dataset](https://github.com/nikki14182/sleep-health)
 
 - 📫 How to reach me **nkeiyaroberson@gmail.com**
 
